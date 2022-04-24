@@ -10,3 +10,4 @@ It is preferred to use a Python Virtual Environment when we try to run this proj
 python3 -m venv env
 . .env/bin/activate
 ```
+
